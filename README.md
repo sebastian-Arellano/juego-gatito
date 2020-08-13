@@ -1,4 +1,7 @@
 # juego-gatito
-equipo: 
-jessy sebastian arellano  soriano 
-alfredo misrain ramos parra 
+Gato para IA I
+
+## Integrantes:
+- jessy sebastian arellano soriano 
+- alfredo misrain ramos parra 
+
